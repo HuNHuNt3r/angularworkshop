@@ -1,0 +1,19 @@
+{
+  "name": "angularworkshop",
+  "version": "1.0.0",
+  "description": "GE Angular Init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuNHuNt3r/angularworkshop.git"
+  },
+  "author": "DG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuNHuNt3r/angularworkshop/issues"
+  },
+  "homepage": "https://github.com/HuNHuNt3r/angularworkshop#readme"
+}
